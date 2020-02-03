@@ -956,8 +956,8 @@ footer .soc a {
   margin-left: 12px;
 }
 
-footer .soc a .ion {
-  font-size: 17px;
+footer .soc a ion-icon {
+  font-size: 22px;
   color: #363636;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
